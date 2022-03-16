@@ -9,4 +9,6 @@
     <color name="white">#FFFFFFFF</color>
     <color name="coral">#f77062</color>
     <color name="barbie_pink">#fe5196</color>
+    <color name="background_light">#f9fafb</color>
+    <color name="transparent">#00FFFFFF</color>
 </resources>
